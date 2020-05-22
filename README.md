@@ -23,7 +23,7 @@ Once configured, just activate it. If it is active, it will appear under a green
 The antilag procedure is activated when the switch is set to 1. The switch connection pin is pin 26 (board 0.4)
 
 NEWS: ALS VALVE
-
+and IDLE VALVE
 ## Speeduino
 The Speeduino project is a flexible, fully featured Engine Management Systems (EMS aka ECU) based on the low cost and open source Arduino platform. It provides the hardware, firmware and software components that make up an engine management system, all provided under open licenses. With over 1000 installations, Speeduino has matured into a product that meets the needs of the hobbyist and enthusiast community without driving prices to the levels of traditional aftermarket ECUs
 
