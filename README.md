@@ -22,6 +22,8 @@ I added the antilag to the speeduino code. On tunerstudio there is a modal where
 Once configured, just activate it. If it is active, it will appear under a green rectangle with the word BANG ON.
 The antilag procedure is activated when the switch is set to 1. The switch connection pin is pin 26 (board 0.4)
 
+NEWS: ALS VALVE
+
 ## Speeduino
 The Speeduino project is a flexible, fully featured Engine Management Systems (EMS aka ECU) based on the low cost and open source Arduino platform. It provides the hardware, firmware and software components that make up an engine management system, all provided under open licenses. With over 1000 installations, Speeduino has matured into a product that meets the needs of the hobbyist and enthusiast community without driving prices to the levels of traditional aftermarket ECUs
 
@@ -31,14 +33,14 @@ The Speeduino online manual can be found at: https://wiki.speeduino.com
 ## Where to Buy
 [Pre-made Speeduino units/boards are available from a number of official resellers](https://speeduino.com/home/where-to-buy)
 
-These resellers all contribute a portion of sales back to the project to allow for continued development to take place and we encourage sales through them whenever possible. 
- 
-Of course, being open source, you are free to use the design files provided here to create your own hardware! 
+These resellers all contribute a portion of sales back to the project to allow for continued development to take place and we encourage sales through them whenever possible.
+
+Of course, being open source, you are free to use the design files provided here to create your own hardware!
 
 ## Support
-In addition the manual referenced above, Speeduino has a large and very vibrant community of people to help out with your setup or any questions you might add. 
+In addition the manual referenced above, Speeduino has a large and very vibrant community of people to help out with your setup or any questions you might add.
 
-* [Speeduino Forum](https://speeduino.com/forum) 
+* [Speeduino Forum](https://speeduino.com/forum)
 * [Slack](https://speeduino.com/home/community/slack)
 * [Facebook](https://www.facebook.com/groups/191918764521976/)
 
